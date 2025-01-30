@@ -1,4 +1,4 @@
-##This is a strealit app to detect and grade acne, it is still in the early stages of development
+This is a strealit app to detect and grade acne, it is still in the early stages of development
 
 use "streamlit run demo.py" to run the streamlit app
 
