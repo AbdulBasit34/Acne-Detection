@@ -5,4 +5,4 @@ ultralytics
 Pillow
 opencv-python-headless
 numpy
-
+gdown
